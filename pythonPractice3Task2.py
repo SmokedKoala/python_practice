@@ -17,7 +17,7 @@ class C32:
             self.S0='E'
             return(9)
         else:
-            (None)    
+            return(None)    
 
     def chip(self):
         if self.S0=='C':
